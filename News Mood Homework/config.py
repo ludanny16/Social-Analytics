@@ -1,0 +1,5 @@
+# Twitter API Keys
+consumer_key='e0pk93Gk5uL4piPvvmPVwO6wt'
+consumer_secret ='CmL0livE1a1eMTSkfhz6Eb3zwboLqUIKgYD7yA1Djc3YKn4eWh'
+access_token='930222347021377538-NJiXojlPeON71uN2BbWaWEBlYuHruXR'
+access_token_secret='uTWFMwswQodeU0yHCv0JbAr6dYw8vHEMdH519NoUz4DRS'
